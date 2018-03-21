@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+extract_news/__init__.py
+extract_news.egg-info/PKG-INFO
+extract_news.egg-info/SOURCES.txt
+extract_news.egg-info/dependency_links.txt
+extract_news.egg-info/entry_points.txt
+extract_news.egg-info/not-zip-safe
+extract_news.egg-info/top_level.txt

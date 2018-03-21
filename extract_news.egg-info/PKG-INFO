@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: extract-news
+Version: 0.1.dev0
+Summary: Python package to parse news from various news website
+Home-page: https://hee0624.github.io/
+Author: chenhe
+Author-email: hee0624@163.com
+License: UNKNOWN
+Description: Python package to parse news from various news website.We can get news content, news public time and news public source by this tool.
+Keywords: news extract parser article
+Platform: UNKNOWN
