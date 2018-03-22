@@ -27,3 +27,5 @@ news_title = res.get('news_title')
 # html为新闻网页字符串
 res = extract_news.offline_parse(html)
 ```
+### Questions, comments?
+Send them to [He Chen](mailto:hee0624@163.com).
