@@ -1,14 +1,14 @@
 # extract_news
 
-Python package to parse news from various news website
+## Getting started
+![新闻图片](./doc/news.png)
+### Requirements
 
+You need to have a 3.6 version of Python installed. See the  [page](https://www.python.org/) for more information.
 
-
-## Installation
+### Installation
 
 * python setup.py install
-
-## Getting started
 1. online extract
 
 ```
