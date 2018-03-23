@@ -29,3 +29,6 @@ res = extract_news.offline_parse(html)
 ```
 ### Questions, comments?
 Send them to [He Chen](mailto:hee0624@163.com).
+
+https://github.com/codelucas/newspaper
+https://github.com/chrislinan/cx-extractor-python
